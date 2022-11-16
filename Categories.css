@@ -1,0 +1,12 @@
+.card {
+
+    border-radius: 2ch !important;
+    border-color:brown; 
+
+}
+.card:hover{
+
+    border:2px solid blue;
+    cursor: pointer;
+}
+
